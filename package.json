@@ -1,0 +1,13 @@
+{
+  "name": "builder-project",
+  "version": "1.0.0",
+  "description": "Builder.io project",
+  "scripts": {
+    "dev": "vite dev --port 8080",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
